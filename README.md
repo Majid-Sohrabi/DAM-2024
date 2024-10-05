@@ -26,16 +26,16 @@ There are 3 main checkpoints for the project:
 |Intermediate status report|November 29|
 |Project defense|Official exam date|
 
-Missing any of the 3 stages has a negative point on the final mark for the project.
-The intermediate status report is a “MUST” to be eligible for final defense.
-All members of a group need to attend the final defense.
+- Missing any of the 3 stages has a negative point on the final mark for the project.
+- The intermediate status report is a “MUST” to be eligible for final defense.
+- All members of a group need to attend the final defense.
 
-Topic choice needs to be approved, so make sure you leave some time before the deadline for possible refinements.
+The topic choice needs to be approved, so make sure you leave some time before the deadline for possible refinements.
 
-Intermediate status report should cover at least 50% of the work that will be done by the project defense.
-This intermediate report should consist of a github repository with your code, where your
-**continuous progress should be clearly seen** (if you're participating in a competition within a team,
-**contributions from all the members should be seen explicitly, via commits**).
+The intermediate status report should cover at least 50% of the work that will be done by the project defense.
+This intermediate report should consist of a GitHub repository with your code, where your
+**Continuous progress should be clearly seen** (if you're participating in a competition within a team,
+**Contributions from all the members should be seen explicitly, via commits**).
 Also, a brief supporting document should be provided (e.g. text or slides with comments) describing what
 you have done and what you are planning to do by the end of the project.
 The report will be graded in a binary form (passed/failed).
