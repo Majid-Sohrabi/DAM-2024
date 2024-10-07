@@ -4,11 +4,15 @@ Homeworks
 
 We will collect your home assignment solutions through private github repositories that you need to create (see the instructions from the 1st homework). If you haven't done so yet, please give us the info about your homework repository through the google form (see the main pinned message in the telegram chat).
 
-#	File	Deadline
+#	Homeworks
 
-| 01 |  |   |
-| -- | ------------------------| ------- |
-| 02 |  |  |
+| #  | Link |        Deadline        |
+|----|:----:|:----------------------:|
+| 01 | [hw01_numpy_matplotlib](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/01-Intro/hw01_numpy_matplotlib.ipynb) | 14 October 2024, 23:59 |
+| -- |  --  |           --           |
+| 02 |  --  |           --           |
+
+
 
 
 -1 is considered for each day late submission on respective HW. (if the hw is out of 10 then the hw grade will be automatically 0 for delay > 9 days)
