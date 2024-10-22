@@ -10,7 +10,7 @@ We will collect your home assignment solutions through private github repositori
 |----|:----:|:----------------------:|
 | 01 | [hw01_numpy_matplotlib](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/01-Intro/hw01_numpy_matplotlib.ipynb) | 14 October 2024, 23:59 |
 | 02 | [hw02_frecuency_central_tendency](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/02-Variables-Frequency/hw02_frecuency_central_tendency.ipynb)  |          21 October 2024, 23:59           |
-| -- |  --  |           --           |
+| 03 |  [hw03_outliers_z_score](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/03-Variability-Z-score/hw03_outliers_z_score.ipynb)  |           4  November 2024, 23:59          |
 | -- |  --  |           --           |
 
 
