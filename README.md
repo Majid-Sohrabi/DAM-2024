@@ -29,7 +29,7 @@ There are 3 main checkpoints for the project:
 |--|--|
 |Topic choice| October 25 |
 |Intermediate status report|November 29|
-|Project defense|Official exam date|
+|Project defense|Official exam date (December 14)|
 
 - Missing any of the 3 stages has a negative point on the final mark for the project.
 - The intermediate status report is a “MUST” to be eligible for final defense.
