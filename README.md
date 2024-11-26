@@ -12,7 +12,7 @@ We will collect your home assignment solutions through private github repositori
 | 02 | [hw02_frecuency_central_tendency](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/02-Variables-Frequency/hw02_frecuency_central_tendency.ipynb)  |          21 October 2024, 23:59           |
 | 03 |  [hw03_outliers_z_score](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/03-Variability-Z-score/hw03_outliers_z_score.ipynb)  |           4  November 2024, 23:59          |
 | 04 |  [hw04_hypothesis_testing](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/04-Hypothesis-Testing-Correlation/hw04_hypothesis_testing.ipynb) |   12 November 2024, 23:59   |
-| 05 |  [hw05_linear_regression](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/07-trees/hw05_linear_regression.ipynb) |   3 December 2024, 23:59   |
+| 05 |  [hw05_linear_regression](https://github.com/Majid-Sohrabi/DAM-2024/blob/main/07-trees/hw05_linear_regression.ipynb) |   6 December 2024, 23:59   |
 
 
 
